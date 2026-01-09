@@ -22,3 +22,6 @@ npm run dev
 cd frontend
 npm install
 npm run dev
+
+## Note
+Backend implementation is partially complete due to time constraints.
